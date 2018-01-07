@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Temp Workspace\\models\\object_detection\\fifa_models\\model_action"
+all_model_checkpoint_paths: "D:\\Temp Workspace\\models\\object_detection\\fifa_models\\model_action"
